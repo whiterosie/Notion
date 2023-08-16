@@ -1,0 +1,11 @@
+<script
+  type="text/javascript"
+  src="https://vk.com/js/api/openapi.js?168"
+  charset="windows-1251"
+></script>
+
+<!-- Put this script tag to the place, where the Playlist block will be -->
+<div id='vk_playlist_301120506_142'></div>
+<script type="text/javascript">
+   VK.Widgets.Playlist('vk_playlist_301120506_142', 301120506, 142, 'c09c1c34cdf7190efb');
+</script>
